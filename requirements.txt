@@ -17,4 +17,4 @@ requests==2.23.0
 six==1.14.0
 soupsieve==1.9.5
 Werkzeug==0.16.0
-waitress==1.4.3
+waitress==2.1.1
